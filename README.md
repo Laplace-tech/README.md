@@ -1,59 +1,44 @@
 # MASTER ROAD
 
-> Six mid-sized systems projects over two years.  
-> Each gemstone marks a stage. Each stage must leave behind code, docs, tests, and lessons.
+> **Six Gemstones. Six Systems Projects. Two Years of Execution.**
+> Each gemstone marks a stage. Each stage must leave behind code, docs, tests, and hard-earned lessons.
 
 ![Master Road Banner](./assets/master-road-banner.png)
+*(Note: Replace this image with your customized banner showing numbered gemstones)*
 
 ## Current Active Stage
 **Gem 01 — RAFT from Scratch**
 
-I’m building a long-term execution track centered on:
-- distributed systems
-- operating systems
-- networking
-- storage
-- backend/system design
-- production-minded engineering
+I am building a long-term execution track focused on building systems that provide clear evidence: code, documentation, and proven reliability.
 
-Current focus:
-- leader election
-- log replication
-- safety guarantees
-- readable implementation
-- testable behavior
-- design documentation
-
-Repository:
-- [raft-from-scratch](https://github.com/YOUR_USERNAME/raft-from-scratch)
+- **Current focus:** Leader election, log replication, and basic safety guarantees.
+- **Goal:** Build a readable, testable, and explainable implementation.
+- **Repository:** [raft-from-scratch](https://github.com/YOUR_USERNAME/raft-from-scratch)
 
 ## Stage Map
 
-- **Gem 01 — RAFT from Scratch** · Active
-- **Gem 02 — TBD** · Locked
-- **Gem 03 — TBD** · Locked
-- **Gem 04 — TBD** · Locked
-- **Gem 05 — TBD** · Locked
-- **Gem 06 — TBD** · Locked
+- **Gem 01 — RAFT from Scratch** · *Active*
+- **Gem 02 — TBD** · *Locked*
+- **Gem 03 — TBD** · *Locked*
+- **Gem 04 — TBD** · *Locked*
+- **Gem 05 — TBD** · *Locked*
+- **Gem 06 — TBD** · *Locked*
 
-## Rules of the Road
+## Project Standards
 
-Every stage must leave behind:
+Every stage must deliver:
 - a clear problem statement
 - architecture/design notes
 - implementation milestones
 - tests and reproducible runs
-- limitations and trade-offs
+- failure cases and known limitations
 - a retrospective after completion
-
-## Repositories
-
-- [Master Road](https://github.com/YOUR_USERNAME/master-road)
-- [RAFT from Scratch](https://github.com/YOUR_USERNAME/raft-from-scratch)
 
 ## Why this exists
 
 I don’t want to only consume concepts.
+I want to build systems that leave **evidence**: code, docs, tests, and trade-offs.
 
-I want to build systems that leave evidence:
-**code, docs, tests, failures, trade-offs, and iteration.**
+## Repositories
+- [Master Roadmap](https://github.com/YOUR_USERNAME/master-road)
+- [RAFT from Scratch](https://github.com/YOUR_USERNAME/raft-from-scratch)
