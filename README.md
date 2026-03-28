@@ -4,8 +4,6 @@
 > Each gemstone marks a stage. Each stage must leave behind code, docs, tests, and hard-earned lessons.
 
 ![Master Road Banner](./assets/master-road-banner.png)
-*(Note: Replace this image with your customized banner showing numbered gemstones)*
-
 ## Current Active Stage
 **Gem 01 — RAFT from Scratch**
 
