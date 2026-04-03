@@ -1,42 +1,61 @@
-# MASTER ROAD (마스터 로드 2026-07-01 ~ )
+# MASTER ROAD (마스터 로드 2026-06-15 ~ )
 
-> **Six Gemstones. Six Systems Projects. Two Years of Execution.**
-> Each gemstone marks a stage. Each stage must leave behind code, docs, tests, and hard-earned lessons.
+> **Two Core Texts. One Serious Learning Track.**
+> This road is focused on building real competence in machine learning and deep learning through study, implementation, experiments, and written evidence.
 
 ![Master Road Banner](./assets/master-road-banner.png)
+
 ## Current Active Stage
-**Gem 01 — RAFT from Scratch**
+**Stage 01 — ISLP (Introduction to Statistical Learning with Python)**
 
-I am building a long-term execution track focused on building systems that provide clear evidence: code, documentation, and proven reliability.
+I am building a long-term learning track focused on understanding machine learning fundamentals before moving deeper into modern deep learning.
 
-- **Current focus:** Leader election, log replication, and basic safety guarantees.
-- **Goal:** Build a readable, testable, and explainable implementation.
-- **Repository:** [raft-from-scratch](https://github.com/YOUR_USERNAME/raft-from-scratch)
+- **Current focus:** supervised learning, model evaluation, overfitting, regularization, trees, ensembles, and core statistical learning concepts
+- **Goal:** build strong ML foundations with code, summaries, solved exercises, and small reproducible experiments
+- **Primary text:** *ISLP — An Introduction to Statistical Learning with Applications in Python*
+
+## Next Stage
+**Stage 02 — Dive into Deep Learning**
+
+After establishing a solid ML foundation, I will move into deep learning through hands-on implementation and model training.
+
+- **Planned focus:** neural networks, backpropagation, optimization, CNNs, modern deep learning workflows, and practical experiments
+- **Goal:** connect theory to implementation through notebooks, small projects, and repeatable training results
+- **Primary text:** *Dive into Deep Learning (D2L)*
 
 ## Stage Map
 
-- **Gem 01 — RAFT from Scratch** · *Active*
-- **Gem 02 — TBD** · *Locked*
-- **Gem 03 — TBD** · *Locked*
-- **Gem 04 — TBD** · *Locked*
-- **Gem 05 — TBD** · *Locked*
-- **Gem 06 — TBD** · *Locked*
+- **Stage 01 — ISLP** · *Active*
+- **Stage 02 — Dive into Deep Learning** · *Next*
+- **Stage 03 — ???** · *Locked*
+- **Stage 04 — ???** · *Locked*
+- **Stage 05 — ???** · *Locked*
+- **Stage 06 — ???** · *Locked*
 
-## Project Standards
+## Study Standards
 
-Every stage must deliver:
-- a clear problem statement
-- architecture/design notes
-- implementation milestones
-- tests and reproducible runs
-- failure cases and known limitations
-- a retrospective after completion
+Every stage must leave behind:
+- structured reading notes
+- solved exercises and concept summaries
+- implementation code or notebooks
+- experiment records and result comparisons
+- mistakes, limitations, and lessons learned
+- a written retrospective after completion
 
 ## Why this exists
 
-I don’t want to only consume concepts.
-I want to build systems that leave **evidence**: code, docs, tests, and trade-offs.
+I do not want to only read famous books and feel productive.
+
+I want to turn study into **evidence**:
+- concepts I can explain
+- code I can run
+- experiments I can reproduce
+- mistakes I can learn from
+- systems I can eventually build
+
+This roadmap exists to make my learning visible, disciplined, and cumulative.
 
 ## Repositories
 - [Master Roadmap](https://github.com/YOUR_USERNAME/master-road)
-- [RAFT from Scratch](https://github.com/YOUR_USERNAME/raft-from-scratch)
+- [ISLP Study Notes](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
+- [Dive into Deep Learning Study Notes](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
